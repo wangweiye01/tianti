@@ -176,8 +176,8 @@ jc.uiExtend("footer", {
         html += '<div class="row">';
         html += '<div class="col-md-5 col-sm-12">';
         html += '<h4>关于 天梯</h4>';
-        html += '<p class="mt20"><i class="icon"></i>地址：广东省广州市天河区五山路381号</p>'
-        html += '<p><i class="icon"></i>邮箱：xuzhexu@139.com</p>'
+        html += '<p class="mt20"><i class="icon"></i>地址：河北沧州</p>'
+        html += '<p><i class="icon"></i>邮箱：wwyknight@163.com</p>'
         html += '</div>';
 
         html += '<div class="col-md-3 col-sm-12">';
