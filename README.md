@@ -96,5 +96,3 @@
     ![image](https://raw.githubusercontent.com/xujeff/tianti/master/screenshots/red/articlelist.png)
     ![image](https://raw.githubusercontent.com/xujeff/tianti/master/screenshots/red/addarticle.png)  
     ![image](https://raw.githubusercontent.com/xujeff/tianti/master/screenshots/tianti_dashang_erweima.png)  
-    
-    
