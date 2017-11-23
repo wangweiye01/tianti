@@ -88,7 +88,7 @@ tbody tr td { transition: all 0.4s ease; -moz-transition: all 0.4s ease; -webkit
 
 
 
-.J_loginMain { height: 100%; background: url(../images/login_bg.jpg) no-repeat center center; background-size: 110% auto; }
+.J_loginMain { height: 100%; background: url(../images/login_bg_1.jpg) no-repeat center center; background-size: 110% auto; }
     .J_loginMain .l_inner { padding-top: 1px; margin: 0 auto; width: 1000px; }
         .J_loginMain .l_inner .i_main { position: absolute; left: 50%; top: 50%; margin-left: -260px; margin-top: -220px; padding: 0 40px 40px; width: 440px; background-color: #fff; background-color: rgba(255,255,255,0.9); border-top: 3px solid #0096e0; -webkit-box-shadow: 0 15px 30px rgba(0,0,0,0.1); box-shadow: 0 15px 30px rgba(0,0,0,0.1); -webkit-transform: translate3d(0, -2px, 0); transform: translate3d(0, -2px, 0); }
             .J_loginMain .l_inner .i_main .m_txt { padding: 30px 0 16px; text-align: center; font-size: 20px; color: #0096e0; }
