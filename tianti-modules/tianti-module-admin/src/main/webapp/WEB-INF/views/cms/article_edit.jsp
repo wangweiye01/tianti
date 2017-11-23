@@ -263,6 +263,7 @@
 						$("#leafColumnId").prev("span").html($("#leafColumnId").find("option:selected").html());
 					}else{
 						// $("select").change();
+                        $("#leafColumnId").change();
 					}
 				}
 			});
