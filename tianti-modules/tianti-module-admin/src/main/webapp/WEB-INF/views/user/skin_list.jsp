@@ -28,15 +28,15 @@
 					</c:choose>
                     >
                         <div class="i_picture">
-                            <a href="javascript:;" title="此皮肤为天梯蓝风格">
-                                <img src="${ctx }/static/images/skin/blue.jpg" alt="此皮肤为天梯蓝风格" />
+                            <a href="javascript:;" title="此皮肤为天空蓝风格">
+                                <img src="${ctx }/static/images/skin/blue.jpg" alt="此皮肤为天空蓝风格" />
                             </a>
                         </div>
                         <div class="i_mask">
                             <i class="icon"></i>
                         </div>
                         <div class="i_name">
-                                                                 天梯蓝(默认)
+                                                                 天空蓝(默认)
                         </div>
                         
                     </div>
@@ -52,14 +52,14 @@
                     >
                         <div class="i_picture">
                             <a href="javascript:;">
-                                <img src="${ctx }/static/images/skin/red.jpg" alt="此皮肤为天梯红风格" />
+                                <img src="${ctx }/static/images/skin/red.jpg" alt="此皮肤为热烈红风格" />
                             </a>
                         </div>
                         <div class="i_mask">
                             <i class="icon"></i>
                         </div>
                         <div class="i_name">
-                                                                天梯红
+                                                                热烈红
                         </div>
                         
                     </div>
