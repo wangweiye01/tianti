@@ -543,7 +543,7 @@ jc.uiExtend("imageList", {
 
 jc.uiExtend("pageBanner", {
     init: function () {
-        this.$element.html('<img src="../../static/cache/1.jpg" />');
+        this.$element.html('<img src="../../static/cache/1.png" />');
     }
 });
 
